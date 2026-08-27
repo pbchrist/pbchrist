@@ -20,12 +20,3 @@ then run them against data.
 **[cranbrook-rpg](https://github.com/pbchrist/cranbrook-rpg)**
 Top-down RPG built on the real Cranbrook campus, mapped from OpenStreetMap and
 USGS elevation data.
-
-### Recruiting work
-
-Placed the Mission Operations Flight Director for MethaneSAT. Staffed simulation
-at Cruise out of game, film and aerospace studios. Built Grindr's first DEI
-hiring strategy. Taught sourcing to blind and disabled students at the Sourcing
-Institute Foundation.
-
-[linkedin.com/in/becomeiconic](https://www.linkedin.com/in/becomeiconic)
