@@ -1,12 +1,4 @@
-## Patrick Christell
 
-Technical recruiter in Seattle. Ten years finding engineers for autonomous
-vehicles, aerospace, games, AI/ML and healthcare. Twenty years before that
-writing for film, documentary and brand.
-
-I run LLM inference on my own multi-GPU hardware using llama.cpp and open-weight
-models, and I build my sourcing tools on top of it. They run locally, so
-candidate data doesn't go to a third-party model.
 
 ### Repos
 
