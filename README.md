@@ -3,7 +3,7 @@
 ### Repos
 
 **[patrick-os](https://github.com/pbchrist/patrick-os)**
-AI work that compounds. Patrick OS turns procedures, context, routing, and past failures into versioned, testable rules so every model inherits what the last one learned and cannot repeat mistakes already caught.**
+AI work that compounds. Patrick OS turns procedures, context, routing, and past failures into versioned, testable rules so every model inherits what the last one learned and cannot repeat mistakes already caught.
 
 
 **[talent-market-map](https://github.com/pbchrist/talent-market-map)**
