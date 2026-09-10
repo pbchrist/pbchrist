@@ -3,10 +3,8 @@
 ### Repos
 
 **[patrick-os](https://github.com/pbchrist/patrick-os)**
-The operating layer the others run under. Procedures, voice rules and model
-routing are versioned files, not prompts, and every rule cites the failure that
-produced it. Its canonical failing test is an email this system actually sent,
-at a perfect score.
+AI work that compounds. Patrick OS turns procedures, context, routing, and past failures into versioned, testable rules so every model inherits what the last one learned and cannot repeat mistakes already caught.**
+
 
 **[talent-market-map](https://github.com/pbchrist/talent-market-map)**
 Takes a job description and returns the talent pools a title search won't. Names
