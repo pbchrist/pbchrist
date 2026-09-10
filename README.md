@@ -2,6 +2,12 @@
 
 ### Repos
 
+**[patrick-os](https://github.com/pbchrist/patrick-os)**
+The operating layer the others run under. Procedures, voice rules and model
+routing are versioned files, not prompts, and every rule cites the failure that
+produced it. Its canonical failing test is an email this system actually sent,
+at a perfect score.
+
 **[talent-market-map](https://github.com/pbchrist/talent-market-map)**
 Takes a job description and returns the talent pools a title search won't. Names
 the capability underneath the title, finds industries where people build that
