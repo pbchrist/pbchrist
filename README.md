@@ -2,8 +2,8 @@
 
 ### Repos
 
-**[patrick-os](https://github.com/pbchrist/patrick-os)**
-AI work that compounds. Patrick OS turns procedures, context, routing, and past failures into versioned, testable rules so every model inherits what the last one learned and cannot repeat mistakes already caught.
+**[iconic-os](https://github.com/pbchrist/iconic-os)**
+AI work that compounds. Iconic OS turns what works, what matters, and what went wrong into durable, testable intelligence—so every model starts smarter than the last and mistakes only have to be solved once.
 
 
 **[talent-market-map](https://github.com/pbchrist/talent-market-map)**
