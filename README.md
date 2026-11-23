@@ -1,3 +1,15 @@
+## Live MCP products from ICONIC
+
+**[MCP Selection Test — $49](https://iconic.onl/agents/selection-test/)** — Will real AI models choose your MCP tools over competing servers? Submit a public HTTPS MCP URL. Get measured tool pick rates, rival comparisons, rewritten tool descriptions, and a held-out before/after retest. Automated delivery; public tool metadata only, never invokes third-party tools.
+
+**[ICONIC Reserve Pass — $19 / 30 days](https://iconic.onl/agents/reserve/#pass)** — Private, scoped agent memory and decision-to-outcome ledger. One-time pass, no automatic renewal. Does not include production data connectors or regulated-data support.
+
+**[Data Discrepancy Report — $29](https://iconic.onl/agents/data-reconciliation/)** — Automated, evidence-checked comparison of two authorized data snapshots. Identifies missing, changed, and duplicated records.
+
+[Agent marketplace and MCP connector](https://iconic.onl/agents/marketplace/) · [ICONIC](https://iconic.onl/)
+
+---
+
 
 
 ### Repos
